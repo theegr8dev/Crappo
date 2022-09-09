@@ -12,6 +12,30 @@ html {
 
 body {
   font-family: "Oxanium", cursive;
+  background-color: #0d0d2b;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 4.8rem;
+  color: #ffffff;
+  color: red;
+}
+
+h2 {
+  font-size: 3.2rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+span {
+  font-size: 1.2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
